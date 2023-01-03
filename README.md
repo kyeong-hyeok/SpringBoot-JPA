@@ -9,4 +9,4 @@
 | 1 |  [프로젝트 환경설정](https://koeyhk.tistory.com/19) |
 | 2 | [도메인 분석 설계](https://koeyhk.tistory.com/21) |
 | 3 | [도메인 개발]() |
-| 4 | [Section 7. 웹 계층 개발]() |
+| 4 | [웹 계층 개발]() |
